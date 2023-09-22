@@ -1,0 +1,11 @@
+Difficulty: Easy
+
+Description:
+```
+Militær krypto direkte i din browser rekrut!
+
+Grundet det øgede trusselsniveau er vi nødsaget til at implementere den mest sikre
+og helt igennem ubrydelige kryptografi, selv på vores hjemmesider.
+
+Fjenden har IGEN chance for at få fingre I vores flag!
+```

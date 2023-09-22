@@ -1,0 +1,6 @@
+flask website running in docker.
+
+
+docker build -t bcweb .
+docker run -p 14000:9999 --name bcweb bcweb
+

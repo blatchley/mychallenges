@@ -1,0 +1,5 @@
+En mere avanceret substitutionsciffer er vignere ciffer, hvor en længere nøgle bruges til at forhindre brute force angreb.
+
+Den krypterede tekst er på dansk, måske kan det hjælpe at vide dette?
+
+Husk at lægge resultatet ind i flagformatet. (ddc eksempel flag -> DDC{eksempel_flag})

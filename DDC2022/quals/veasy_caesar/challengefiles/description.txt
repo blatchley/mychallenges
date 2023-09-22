@@ -1,0 +1,5 @@
+En af de ældste former for kryptering er cæsar-ciferen, hvor hvert bogstav roteres af en hemmelig nøgle.
+
+Kan du dekryptere flaget?
+
+Husk at lægge resultatet ind i flagformatet. (ddc eksempel flag -> DDC{eksempel_flag})

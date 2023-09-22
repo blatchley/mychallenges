@@ -1,0 +1,7 @@
+run following commands in the deployment folder
+
+docker build -t blessthehash .
+docker run -p 13337:9999 -d --restart always --name blessthehash blessthehash
+
+then it can be accessed by
+nc 127.0.0.1 13337

@@ -1,0 +1,8 @@
+name: Keyless-feistel
+
+difficulty: easy?
+
+description: 
+"""
+Jeg blev træt af folk, der gættede min hemmelige nøgle, så jeg lavede et nyt krypteringssystem, der kun bruger hash-funktioner!
+"""

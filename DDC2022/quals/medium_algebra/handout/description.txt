@@ -1,0 +1,3 @@
+Moderne krypteringssystemer gør stor brug af modulære aritmetiske og algebraiske operationer. Her er et hjemmebygget krypteringssystem baseret på disse operationer, kan du implementere dekryptering og knække chifferteksten?
+
+Chifferteksten er krypteret med en firecifret streng, mellem 0000 og 9999

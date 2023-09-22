@@ -1,0 +1,7 @@
+run following commands in the deployment folder
+
+docker build -t medium_ecdsa .
+docker run -p 13337:9999 -d --restart always --name medium_ecdsa medium_ecdsa
+
+then it can be accessed by
+nc 127.0.0.1 13337

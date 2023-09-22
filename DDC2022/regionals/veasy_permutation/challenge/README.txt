@@ -1,0 +1,3 @@
+...og så bytter jeg lidt om på dem alle sammen. Ingen ko på isen.
+
+Forstår ikke hvorfor det skulle være så svært at kryptere...

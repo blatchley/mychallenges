@@ -1,0 +1,13 @@
+Title:
+```
+Criminal Relay
+```
+
+
+
+Description:
+```
+We found a server which receives messages, then encrypts them along with the targets identity, before forwarding them into the darkweb for mixing.
+
+Can you recover the target?
+```

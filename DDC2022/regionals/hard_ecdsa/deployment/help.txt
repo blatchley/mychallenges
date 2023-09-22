@@ -1,0 +1,4 @@
+run following commands in the deployment folder
+
+docker build -t hardecdsa .
+docker run -p 13338:9999 -d --restart always --name hardecdsa hardecdsa
