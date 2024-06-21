@@ -1,0 +1,5 @@
+Antallet af usikre wifi-adgangskoder vil rock you!
+
+Se, om du kan bryde wifi-adgangskoden til dette TP-Link-adgangspunkt. Flaget er adgangskoden.
+
+[challenge.zip](https://nextcloud.haaukins.com/s/Y6tMWkyZkoHZnHs/download/challenge.zip)

@@ -1,0 +1,3 @@
+Tilfældige tal bruges hele tiden! Men hvor tilfældige er de egentlig?
+
+Til denne udfordring kan det være en fordel at søge rundt efter information og værktøjer til at angribe pythons random funktion!

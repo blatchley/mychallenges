@@ -1,0 +1,2 @@
+docker build -t xor-hard .
+docker run -p 13337:9999 -d --restart always --name xor-hard xor-hard

@@ -1,0 +1,3 @@
+I encrypted parts of the Danish constitution with a substitution cipher.
+
+Can you use the encrypted constitution to discover the key and decrypt the flag?

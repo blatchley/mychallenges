@@ -1,0 +1,3 @@
+I denne Challenge er målet at knække en simpel psuedo tilfældig genereringsteknik som har navnet "LCG"
+
+Der er fire trin at knække. Hvis du går i stå, så prøv at tjekke ressourcer som https://tailcall.net/posts/cracking-rngs-lcgs/

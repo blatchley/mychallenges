@@ -1,0 +1,4 @@
+I encrypted a bunch of random english words with a substitution cipher. 
+This kind of encryption scheme has been broken for hundreds of years! There are many tools and techniques based on frequency analysis which can crack these kinds of ciphers.
+
+Can you work the key and decrypt the flag? 

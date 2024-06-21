@@ -1,0 +1,1 @@
+DDC{one_way_doesnt_matter_if_you_brute_input_space}

@@ -1,0 +1,2 @@
+docker build -t aesfastest .
+docker run -p 13337:9999 -d --restart always --name aesfastest aesfastest

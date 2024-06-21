@@ -1,0 +1,3 @@
+I've upgraded the substition cipher from qualifiers to an XOR ciphere! (And sampled a second keyphrase just to be safe!)
+
+Can you crack it?

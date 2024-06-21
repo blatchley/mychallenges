@@ -1,0 +1,3 @@
+OK i give up... Maybe all the parts are meant to be there.
+
+I'll just make a tiny optimisation to add_round_key that doesn't even change any functionality. That way i can claim to have at least kinda improved something?

@@ -1,0 +1,3 @@
+My AES was running kinda slow, so i found some code that didn't seem very important and removed it!
+
+What does "mix columns" mean anyway...
