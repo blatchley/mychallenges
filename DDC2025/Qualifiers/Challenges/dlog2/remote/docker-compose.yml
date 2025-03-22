@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  dlog2:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "1337:9999"
+    restart: unless-stopped
+    container_name: dlog2

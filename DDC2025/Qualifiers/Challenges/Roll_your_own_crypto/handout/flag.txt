@@ -1,0 +1,1 @@
+DDC{base64_kinda_strange...Dare_you_to_try_with_one_byte_xor!}
