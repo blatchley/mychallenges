@@ -1,3 +1,5 @@
+def binarify(m):
+    return int.from_bytes(bin(int.from_bytes(m, "big")).encode(), "big")
 
 with open("output.txt", "r") as f:
     data = f.read()
